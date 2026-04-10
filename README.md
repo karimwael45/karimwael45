@@ -1,35 +1,35 @@
 <div align="center">
 
+
 ```
-┌─ TEAM RADIO LOG ─ ENCRYPTED ─ CAR 03 ───────────────────────────────────┐
+┌─ TEAM RADIO LOG ─ ENCRYPTED ─ CAR 03 ────────────────────────────────────┐
 │                                                                          │
 │  [ENGINEER]  "Box box. Soft compound. Undercut window is open."          │
-│  [ENGINEER]  "Car 03 — you are P1. Gap to P2 is 8 seconds and growing." │
+│  [ENGINEER]  "Car 03 — you are P1. Gap to P2 is 8 seconds and growing."  │
 │  [ENGINEER]  "Push now. This is your lap."                               │
 │                                                                          │
-│  · · ·  · · ·  · · ·                                                    │
+│  · · ·  · · ·  · · ·                                                     │
 │                                                                          │
 │  [DRIVER]    "Copy. I'm in the zone."                                    │
 │                                                                          │
-│  · · ·  · · ·  · · ·                                                    │
+│  · · ·  · · ·  · · ·                                                     │
 │                                                                          │
 │  [ENGINEER]  "Car 03 — FASTEST LAP. Purple. Purple. Purple."             │
 │  [ENGINEER]  "That is POLE POSITION. You are the fastest driver."        │
 │                                                                          │
-│  [DRIVER]    "Let's go. COME ON. Let's go!!! 🏁"                        │
+│  [DRIVER]    "Let's go. COME ON. Let's go!!! 🏁"                         │
 │                                                                          │
-│  · · ·  · · ·  · · ·                                                    │
+│  · · ·  · · ·  · · ·                                                     │
 │                                                                          │
-│  ██╗  ██╗ █████╗ ██████╗ ██╗███╗   ███╗                                 │
-│  ██║ ██╔╝██╔══██╗██╔══██╗██║████╗ ████║                                 │
-│  █████╔╝ ███████║██████╔╝██║██╔████╔██║                                 │
-│  ██╔═██╗ ██╔══██║██╔══██╗██║██║╚██╔╝██║                                 │
-│  ██║  ██╗██║  ██║██║  ██║██║██║ ╚═╝ ██║                                 │
-│  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝  W A E L   I B R A H I M      │
+│  ██╗  ██╗ █████╗ ██████╗ ██╗███╗   ███╗                                  │
+│  ██║ ██╔╝██╔══██╗██╔══██╗██║████╗ ████║                                  │ 
+│  █████╔╝ ███████║██████╔╝██║██╔████╔██║                                  │
+│  ██╔═██╗ ██╔══██║██╔══██╗██║██║╚██╔╝██║                                  │
+│  ██║  ██╗██║  ██║██║  ██║██║██║ ╚═╝ ██║                                  │
+│  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝  W A E L   I B R A H I M         │
 │                                                                          │
-│  CAR 03  ·  SCUDERIA CAIRO  ·  CAIRO UNIVERSITY GP  ·  SOPHOMORE YEAR   │
+│  CAR 03  ·  SCUDERIA CAIRO  ·  CAIRO UNIVERSITY GP  ·  SOPHOMORE YEAR    │
 │                                                                          │
-│       "Hardware sets the limits. Software defines what's possible."      │
 │                                                                          │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
@@ -102,16 +102,19 @@
 ## ⚙️ Tech Stack
 
 ### 💻 Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,java,dart&theme=dark" height="48"/>
 </p>
 
 ### 🛠️ Frameworks & Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,git,linux,vscode&theme=dark" height="48"/>
 </p>
 
 ### 🗄️ Data & Systems
+
 <p>
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48"/>
@@ -119,6 +122,7 @@
 </p>
 
 ### 🔐 Networking & Security
+
 <p>
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
@@ -189,15 +193,15 @@
 
 ### 🗂️ Top Languages by Repo
 
-| Language | Usage |
-|----------|-------|
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ████████████░░░ |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ██████████░░░░░ |
-| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) | ████████░░░░░░░ |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | ██████░░░░░░░░░ |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | █████░░░░░░░░░░ |
-| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | ████░░░░░░░░░░░ |
-| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | ███░░░░░░░░░░░░ |
+| Language                                                                                                      | Usage                          |
+| ------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)                | ████████████░░░ |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)             | ██████████░░░░░ |
+| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)                            | ████████░░░░░░░ |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)                   | ██████░░░░░░░░░ |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)                | █████░░░░░░░░░░ |
+| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)                  | ████░░░░░░░░░░░ |
+| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)                   | ███░░░░░░░░░░░░ |
 | ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white) | ██░░░░░░░░░░░░░ |
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karimwael45&theme=github_dark" width="48%"/>
@@ -226,11 +230,11 @@ Guiding students through advanced math concepts, exam technique, and structured 
 
 ---
 
+---
+
 ## 🏎️ Fun Fact
 
-> I don't just watch Formula 1 — I *analyse* it. Tyre degradation curves, undercut windows, safety car deltas — I track the strategy as obsessively as the racing. If I miss a race, I read the timing data anyway. 🏁
-
----
+> When I'm not pushing code, I'm analyzing race strategy — huge **Formula 1** fan 🏁
 
 <div align="center">
 
